@@ -283,8 +283,6 @@ liemo 机器人是 liemo 系列的查询入口，综合评分 4.0/5，主打数�
 * 机器人入口：<a href="https://t.me/aishegongkubot_sgk2023_03_30bot" target="_blank" rel="nofollow">aishegongkubot_sgk2023_03_30bot</a>
 * 使用教程：<a href="#使用教程" target="_blank">社工库机器人怎么用 · 视频教程</a>
 
-<a href="https://t.me/aishegongkubot_sgk2023_03_30bot" target="_blank" rel="nofollow"><img src="aishegongkubot_sgk2023_03_30bot.png" alt="免费社工库机器人分享-社工库机器人导航-免费社工库查询-2026" style="width:380px;" border="0"></a>
-
 ### Kali免費社工庫机器人【新】⭐⭐⭐☆☆
 
 Kali 免费社工库机器人是 Kali 系列的免费入口，综合评分 3.0/5，采用免费查询加付费升级的双层设计。免费层能查的是基础项：手机号归属、身份证基础信息、QQ 号关联、简单的同名查询；付费层解锁的是户籍、开房记录、全家户籍、模糊找人这些深度项。这种分层在社工库圈子里很普遍，好处是不用一开始就付费，先跑几条看看数据质量再决定。Kali 这个品牌在 2025-2026 年做得比较活跃，配套通知频道 @KaliSGK 会发布开库和维护公告，付费查档走 @KaliCD。免费层的额度规则是每天固定次数，用完等第二天，不累计。数据准确性方面，基础项表现稳定，深度项的命中率依赖当期的库，2026 年补过两次库之后比去年好。适合把它当日常自查工具，需要一次性查全的深度需求还是走专门的深度机更省时间。
